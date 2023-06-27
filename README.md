@@ -42,7 +42,7 @@ __This is an edited version of the [original list](assets/programmingchallenges.
     - [ ] ⚫ Add Realtime MIDI Playback with Custom Instruments)*
 21. [ ] 🟡 Password Manager
 22. [ ] 🟡 Key Press Bot
-23. [ ] 🟡 IP/URL Obscurification *(http://www.pc-help.org/obscure.htm)*
+23. [x] 🟡 IP/URL Obscurification *(http://www.pc-help.org/obscure.htm)*
 24. [ ] 🟡 Radix Base Converter (Given a radix base, convert it to decimal)
 25. [ ] 🟡 Encrypt a file, and upload it online
 26. [ ] 🔴 Make a Text Editor that autosaves and includes the date in the filename
