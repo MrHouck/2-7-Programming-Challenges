@@ -1,4 +1,3 @@
-<style>li { list-style: unset !important; padding-left: 25px; }</style>
 # 2<sup>7</sup> Programming Challenges
 
 ### Quick Note:
@@ -6,16 +5,16 @@ __This is an edited version of the [original list](assets/programmingchallenges.
 
 
 # Index
-[Practical](#practical)
-[Algorithmic](#algorithmic)
-[Artificial Intelligence](#artifical-intelligence)
-[Compiler/Interpreter/Debugger](#compilerinterpreterdebugger)
+[Practical](#practical) \
+[Algorithmic](#algorithmic) \
+[Artificial Intelligence](#artifical-intelligence) \
+[Compiler/Interpreter/Debugger](#compilerinterpreterdebugger) \
 [Emulation/Modeling](#emulationmodeling)
 [Games](#games)
 ### Key:
-🟢 - Easy
-🟡 - Medium
-🔴 - Hard
+🟢 - Easy \
+🟡 - Medium \
+🔴 - Hard \
 ⚫ - Ridiculously Hard
 
 ## Practical
@@ -65,13 +64,13 @@ __This is an edited version of the [original list](assets/programmingchallenges.
 43. [ ] 🟡 Bayesian Filter
 44. [ ] 🔴 WMS viewer that isn't web based
 ## Algorithmic
-45. [ ] 🟢 Fizzbuzz *(BONUS: In assembly)*
+45. [x] 🟢 Fizzbuzz *(BONUS: In assembly)*
 46. [ ] 🟢 RPN Calculator
-47. [ ] 🟢 Counts occurences of characters in a given string (include support for unicode characters) *(no cheating by using built in methods!)*
-48. [ ] 🟢 Towers of Hanoi
+47. [x] 🟢 Counts occurences of characters in a given string (include support for unicode characters)
+48. [x] 🟢 Towers of Hanoi
 49. [ ] 🟡 Music Visualizer
 50. [ ] 🟡 Unicode Converter *(Support for UTF-8, 16LE, 32LE, 32BE)*
-51. [ ] 🟢 Calculate the first (n) digits of pi
+51. [x] 🟢 Calculate the first (n) digits of pi
 52. [ ] 🟡 Least Squares Fitting Algorithm
 53. [ ] 🟢 Given an array of a stocks values over time, find the period of time where the stocks could have made the most money
 54. [ ] 🟢 Highest Prime Factor Calculator
