@@ -21,7 +21,7 @@ __This is an edited version of the [original list](assets/programmingchallenges.
 1. [ ] 🟡 Download Manager 
 2. [ ] 🟡 Make an elastic producer/consumer task queue
 3. [ ] 🟡 IRC Client
-4. [ ] 🟢 Markov Chain Sentence Generator *(Include Shitposting Capabilities)*
+4. [x] 🟢 Markov Chain Sentence Generator *(Include Shitposting Capabilities)*
 5. [ ] 🟡 English Sentence Parser that Points to the Context of a Sentence
 6. [ ] 🟡 MIDI Player + Editor
 7. [ ] 🟡 Stock Market Simulator Using Yahoo Spreadsheet Data
@@ -34,7 +34,7 @@ __This is an edited version of the [original list](assets/programmingchallenges.
 14. [ ] 🟡 Shazam Clone
 15. [ ] 🟢 Chatbot *(with conversation retention)*
 16. [ ] 🟡 Paint Clone
-17. [ ] 🟢 Image to ASCII Art
+17. [x] 🟢 Image to ASCII Art
 18. [ ] 🟡 Image Converter
 19. [ ] 🟡 ID3 Reader
 20. [ ] 🔴 Sound Synthesis (Sine, square, sawtooth, etc...)
@@ -125,7 +125,7 @@ __This is an edited version of the [original list](assets/programmingchallenges.
 98. [ ] 🟡 N-Body Simulator, with particles having a certain mass and radius depending on the mass that merge if they collide *(Bonus: Include a GUI where you can place particles)*
 99. [ ] 🟢 Eulerian Path
 100. [ ] 🟢 Draw a spinning 3D Cube
-101. [ ] 🟢 Cellular Textures
+101. [x] 🟢 Cellular Textures
 102. [ ] 🟢 ASCII Digital Clock
 ## Games
 103. [ ] 🟡 Knight's Tour
